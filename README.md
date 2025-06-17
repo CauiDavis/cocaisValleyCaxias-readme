@@ -1,6 +1,6 @@
 <h1 align="center">
   <div style="padding: 10px; border-radius: 8px;">
-    <img src="public\logos\cocais_valley.png" alt="Cocais Valley logo" style="width: 25%">
+    <img src="gitassets\cocais_valley.png" alt="Cocais Valley logo" style="width: 25%">
   </div>
 </h1>
 
@@ -23,3 +23,6 @@ O projeto está hospedado na Vercel. Pushs na branch main automaticamente dispar
 
 Link de produção: https://cocaisvalley.vercel.app
  
+<div>
+    <img src="gitassets/Captura de tela de 2025-06-17 13-22-31.png" alt="Cocais Valley logo" style="width: 100%">
+</div>
